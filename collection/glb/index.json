@@ -1,0 +1,20 @@
+{
+  "id": "https://iiif-3d-manifests.netlify.com/collection/glb/index.json",
+  "type": "Collection",
+  "items": [
+    {
+      "id": "https://iiif-3d-manifests.netlify.com/collection/glb/bowl/index.json",
+      "type": "Manifest",
+      "label": {
+        "@none": [
+          "Somali Woven Basket"
+        ]
+      }
+    }
+  ],
+  "label": {
+    "@none": [
+      "glb"
+    ]
+  }
+}
